@@ -18,7 +18,7 @@ export default ((opts?: Options) => {
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p> */}
         <ul>
-          <p>Links : ⬇️</p>
+          <li>Links : ➡️</li>
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link}>{text}</a>

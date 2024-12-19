@@ -35,7 +35,7 @@ Throughout my career, I have cultivated a deep interest in various aspects of:
 - [[Clustering Similarity Measures]]
 
 
-## ⚖︎Life as a Continuous Tradeoff
+## ⚖︎Life as Continuous Tradeoffs
 
 - [[Tradeoff Ownership and Freedom]]
 - [[Tradeoff between Speed & Power]]
@@ -48,6 +48,8 @@ Throughout my career, I have cultivated a deep interest in various aspects of:
 - [[Tools Power_BI]]
 
 # Personal Pantheon
+
+People that impacted my life. 
 
 [[J.H]],  [[M.B]],  [[P.L]] , [[Y.H]], [[N.G]], [[A.F]], [[A.A]]
 
