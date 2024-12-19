@@ -3,6 +3,7 @@ title: Discrete Mathematics Course
 tags:
   - UoL
   - Teaching
+  - Mathematics
 ---
 
 I Co-built this course on Discrete mathematics during my PhD studies @t Goldsmiths University of London.

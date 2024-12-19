@@ -1,3 +1,9 @@
+---
+tags : 
+- Analytics/Marketing_Analytics
+- Analytics/Product_Analytics
+---
+
 This is quite a large topic. Here is my curated glossary of concepts. I find d useful when it comes Analysing Marketing & Product Numbers
 
 ![[image01.jpg]]

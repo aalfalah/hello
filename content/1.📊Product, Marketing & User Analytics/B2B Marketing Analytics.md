@@ -1,3 +1,8 @@
+---
+tags : 
+- Analytics/Marketing_Analytics
+- Markets/B2B
+---
 
 
 Consider  

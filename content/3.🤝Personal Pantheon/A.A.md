@@ -1,0 +1,1 @@
+![[Baba.jpeg | right| 200]]
