@@ -1,4 +1,6 @@
-This is quite a large topic. Here is my curated glossary of concepts. I find useful when it comes Analysing Marketing & Product Numbers
+This is quite a large topic. Here is my curated glossary of concepts. I find d useful when it comes Analysing Marketing & Product Numbers
+
+![[image01.jpg]]
 
 
 # How to Calculate LTV
