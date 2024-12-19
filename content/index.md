@@ -25,7 +25,7 @@ These positions have shaped my understanding and approach to several key areas o
 - [[Analytics]]
 - [[Tools Power_BI]]
 
-# My Personal Pantheon
+# Personal Pantheon
 
 - [[J.H]]
 - [[M.B]]
@@ -55,3 +55,9 @@ These positions have shaped my understanding and approach to several key areas o
 - [[Clustering Similarity Measures| PhD Candidate @Goldsmiths, UoL]]
 - [[ENSEEIHT| Msc in Engineering @ ENSEEIHT, Toulouse]]
 - [[CNAM | Msc Economics, Law, Paris]]
+
+
+
+# Life as Continuous Tradeoffs
+- [[Tradeoff Ownership and Freedom]]
+- [[Tradeoff between Speed & Power]]
