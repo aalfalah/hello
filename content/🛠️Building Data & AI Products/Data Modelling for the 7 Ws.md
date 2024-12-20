@@ -1,15 +1,20 @@
-# Data Modeling 
-
-**Data Modeling and Visualisation** are central to my work, particularly in **transforming normalised data tables into powerful analytical models** that support critical business decisions. By creating well-structured models, I ensure that even complex datasets become understandable and actionable, driving the business case forward.
-
-My approach prioritises **visual storytelling**, as I believe insights are most impactful when they are easily interpretable by end users. Through **visually compelling representations**—whether using **interactive dashboards** or concise visualisations—I aim to make complex data accessible.
+## Advantages of Dimensional Modeling for Behavioural User Analytics
 
 
-# ## Designing the 7 W
+The primary advantage of a **dimensional model** lies in its simplicity. With fewer tables and straightforward joins, combined with clearly defined facts at the center, it becomes easier to conceptualise how metrics like sales can be analysed and to create the necessary queries.
 
+A more nuanced benefit of dimensional models is their focus on actionable insights. Unlike models that simply denormalise a 3NF ER structure into fewer tables to handle database limitations for complex BI queries, well-designed dimensional models are purpose-driven. 
 
+They emerge from a deliberate process of exploring and uncovering the details of business events worth measuring. These models are structured around key questions—sometimes referred to as the "7Ws"—to capture the complete context of each event:
 
+- **Who** was involved?
+- **What** was done, and to what was it applied?
+- **When** did it occur?
+- **Where** did it happen?
+- **HoW** much or how many were recorded, and how can it be quantified?
+- **Why** did it happen?
+- **HoW** did it unfold—what was the manner or process?
 
+This approach ensures that dimensions and fact tables are not arbitrary but instead reflect the essential characteristics of meaningful business activities.
 
-
-# Data Visualisation
+![[7WsModelling.png]]

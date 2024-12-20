@@ -88,6 +88,12 @@ button#toc {
   @for $i from 0 through 6 {
     & .depth-#{$i} {
       padding-left: calc(1rem * #{$i});
+      font-size: #{1rem * pow(0.8, $i)}; // AAL Reduce font size for each depth
+      font-weight: #{600 - ($i * 100)}; // AAL Reduce font-weight progressively
     }
   }
+
+
+
+
 }

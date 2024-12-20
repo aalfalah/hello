@@ -1,3 +1,3 @@
 ---
-Aliases: [ "#Tools/Power_BI" ]
+Aliases: [ "#Tech/Power_BI" ]
 ---

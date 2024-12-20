@@ -1,5 +1,5 @@
 ---
-title: Hi👋 , I'm Abdelkrim
+title: 👋 Hi , I'm Abdelkrim
 ---
 
 My name is **Abdelkrim**. I live in SE London 🎡, UK. I'm a happy husband and father 👪.
@@ -10,44 +10,40 @@ Fortunate enough to have experienced a variety of **cultures** and **contexts**,
 
 
 
-# Topics of Interest
+# ✨ Topics of interest
 Throughout my career, I have cultivated a deep interest in various aspects of:
 
-## 📊Product, Marketing & User Analytics
-- [[Advanced User Behavioural Analytics]]
+## Product, marketing & user analytics
 - [[B2B Marketing Analytics]]
-- [[Marketing Analytics in Power BI]]
-- [[Oglivy Heritage]]
-- [[On Product-Market Fit]]
+- [[Implement Shannon Entropy in DAX]]
+- [[Implement a funnel drop-off rate in DAX]]
 - [[Product & Marketing Analytics]]
+- [[Curated list of Resources on Behavioural Analytics]]
+- [[References on Marketing Analytics]]
 
-## 🛠️Building Data & AI Products
-
+## Building Data & AI products
 - [[Building Data & AI Products]]
 - [[Data Modelling for the 7 Ws]]
 - [[Data Visualisation]]
 - [[Experiment Design]]
 
-## 🧮Mathematics
-
-- [[Information Theory]]
+## Mathematics
 - [[Discrete Mathematics Course | Discrete Mathematics]]
 - [[Clustering Similarity Measures]]
 
 
-## ⚖︎Life as Continuous Tradeoffs
-
+## General thoughts
 - [[Tradeoff Ownership and Freedom]]
 - [[Tradeoff between Speed & Power]]
 
 
 
-# Map of Tags
+# 🗺️ Map of tags
 
-- [[Analytics]]
-- [[Tools Power_BI]]
+ #Analytics/Marketing_Analytics , #Analytics/Behavioural_Analytics , #Analytics/Product_Analytics , #MyPantheon , #Tech/Power_BI , #Tech/DAX , #tradeoffs , #Mathematics , #Organisations , 
 
-# Personal Pantheon
+
+# 🤝 Personal Pantheon
 
 People that impacted my life. 
 
