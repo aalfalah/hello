@@ -1,7 +1,7 @@
 ---
 title: Discrete Mathematics Course
 tags:
-  - Organisations/UoL
+  - UoL
   - Teaching
   - Mathematics
 ---

@@ -1,5 +1,5 @@
 ---
-tags : Analytics/Behavioural_Analytics
+tags : Behavioural_Analytics
 ---
 
 I am passionate about **leveraging graph theory**, **time series analysis**, and **language models** to **model**, **understand**, and **identify changes** in user behaviour. 

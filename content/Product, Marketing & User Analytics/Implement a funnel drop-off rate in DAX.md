@@ -1,7 +1,7 @@
 ---
 tag : 
-- Tech/DAX
-- Tech/Power_BI
+- DAX
+- Power_BI
 ---
 
 The funnel drop-off rate is a commonly used metric in e-commerce, especially for web-based purchasing processes involving a shopping cart. These processes typically consist of several steps for a customer to complete a purchase. For instance, the customer adds desired products to their shopping cart, reviews the cart, and proceeds to checkout. The checkout process may include entering payment details and additional information like a shipping address, followed by confirming the purchase. At any stage in this journey, a customer might abandon the process, resulting in a drop-off.

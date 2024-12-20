@@ -1,0 +1,3 @@
+---
+Aliases: [ "#Power_BI" ]
+---

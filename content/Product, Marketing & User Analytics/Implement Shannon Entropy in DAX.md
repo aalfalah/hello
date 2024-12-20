@@ -1,7 +1,7 @@
 ---
 tag : 
-- Tech/DAX
-- Tech/Power_BI
+- DAX
+- Power_BI
 ---
 
 

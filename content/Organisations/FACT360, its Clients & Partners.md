@@ -1,6 +1,6 @@
 ---
 tags:
-  - Organisations/FACT360
+  - FACT360
   - Organisations
 ---
 ![[Fact360-Header.gif]]

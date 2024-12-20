@@ -1,7 +1,7 @@
 ---
 tags : 
-- Analytics/Marketing_Analytics
-- Markets/B2B
+- Marketing_Analytics
+- B2B
 ---
 
 
