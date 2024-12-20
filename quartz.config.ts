@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: 'google', tagId: 'GTM-PG4JRLJ'
-    },
+    analytics: { provider: 'google', tagId: 'GTM-PG4JRLJ'},
     locale: "en-US",
     baseUrl: "abdelkr.im",
     ignorePatterns: ["private", "templates", ".obsidian"],
