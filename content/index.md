@@ -57,26 +57,24 @@ People that impacted my life.
 
 # + Professional Roles
 
-## - [[FACT360, its Clients & Partners| CPO @FACT360]]:
-- At present, my focus is on FACT360, where I work as Chief Product Officer (CPO), alongside a dedicated team of salespeople and data scientists. [[FACT360, its Clients & Partners| Learn more >>]]
+- [[FACT360, its Clients & Partners| CPO @FACT360]]: At present, my focus is on FACT360, where I work as Chief Product Officer (CPO), alongside a dedicated team of salespeople and data scientists. [[FACT360, its Clients & Partners| Learn more >>]]
 
 ![[Fact360-Header.gif | right | 300]]
 
 
 
-## - [[TCIDA, Goldsmiths | Research Associate @TCIDA, London, UK]]
-I had the chance to work at [# The Centre for Intelligent Data Analytics (TCIDA)](https://www.gold.ac.uk/computing/research/tcida/) as a Research Associate, with a focus on exploring Co-clustering approaches in the context of Behavioural Analytics.
-
-
-## - [[Goldsmiths, University of London | Associate Lecture @Goldsmiths, London, UK]]
-
-I had the opportunity to teach Computer Science as part of the Computing Department at [Goldsmiths, University of London](https://gold.ac.uk)
-![[teachImage.png| 300]]
+- [[TCIDA, Goldsmiths | Research Associate @TCIDA, London, UK]]: I had the chance to work at [# The Centre for Intelligent Data Analytics (TCIDA)](https://www.gold.ac.uk/computing/research/tcida/) as a Research Associate, with a focus on exploring Co-clustering approaches in the context of Behavioural Analytics.
+- [[Goldsmiths, University of London | Associate Lecture @Goldsmiths, London, UK]] : I had the opportunity to teach Computer Science as part of the Computing Department at [Goldsmiths, University of London](https://gold.ac.uk)
+				![[teachImage.png| 300]]
 
 
 
 # + Education
 
-## - [[Clustering Similarity Measures| PhD Candidate @Goldsmiths, UoL]]
-## - [[ENSEEIHT| Msc in Engineering @ ENSEEIHT, Toulouse]]
-## - [[CNAM | Msc Economics, Law, Paris]]
+- [PhD Candidate @Goldsmiths, UoL](https://gold.ac.uk)
+- [ENSEEIHT| Msc in Engineering @ ENSEEIHT, Toulouse](https://www.enseeiht.fr/)
+- [CNAM, Msc Economics, Law, Paris](https://www.cnam.eu/)
+
+# + Newsletter
+
+[Subscribe to my Product & Marketing Analytics Newsletter >> ](https://productnumbers.com)
