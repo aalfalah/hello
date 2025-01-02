@@ -48,16 +48,9 @@ Throughout my career, I have cultivated a deep interest in various aspects of:
 
 
 
-# + Personal Pantheon
-
-People that impacted my life. 
-
-[[J.H]],  [[M.B]],  [[P.L]] , [[Y.H]], [[N.G]], [[A.F]], [[A.A]]
-
-
 # + Professional Roles
 
-- [[FACT360, its Clients & Partners| CPO @FACT360]]: At present, my focus is on FACT360, where I work as Chief Product Officer (CPO), alongside a dedicated team of salespeople and data scientists. [[FACT360, its Clients & Partners| Learn more >>]]
+- [[FACT360, its Clients & Partners| CPO @FACT360]]: At present, my focus is on FACT360, where I work as Chief Product Officer (CPO), alongside a dedicated team of salespeople and data scientists. [[FACT360, its Clients & Partners| Learn more >>]
 
 ![[Fact360-Header.gif | right | 300]]
 
