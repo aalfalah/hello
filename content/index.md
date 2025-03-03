@@ -21,19 +21,18 @@ Fortunate enough to have experienced a variety of **cultures** and **contexts**,
 Throughout my career, I have cultivated a deep interest in various aspects of:
 
 # + Topics of interest
-## - Product, marketing & user analytics
-- [[B2B Marketing Analytics]]
-- [[Implement Shannon Entropy in DAX]]
-- [[Implement a funnel drop-off rate in DAX]]
-- [[Product & Marketing Analytics]]
-- [[Curated list of Resources on Behavioural Analytics]]
-- [[References on Marketing Analytics]]
 
 ## - Building Data & AI products
 - [[Building Data & AI Products]]
 - [[Data Modelling for the 7 Ws]]
 - [[Data Visualisation]]
 - [[Experiment Design]]
+- [[Curated list of Resources on Behavioural Analytics]]
+- [[References on Marketing Analytics]]
+- miscellaneous :
+  - [[Implement Shannon Entropy in DAX]]
+  - [[Implement a funnel drop-off rate in DAX]]
+
 
 ## - Mathematics
 - [[Discrete Mathematics Course | Discrete Mathematics]]
