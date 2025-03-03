@@ -22,13 +22,22 @@ Throughout my career, I have cultivated a deep interest in various aspects of:
 
 # + Topics of interest
 
+
+## - General thoughts
+- [[Cognitive Outsourcing. Or Why I think ChatGPT & LLM models are a threat to human cognitive capabilities]]
+- [[Dynamic & Customised Pricing using Artificial Intelligence]]
+- [[Tradeoff Ownership and Freedom]]
+- [[Tradeoff between Speed & Power]]
+
+
 ## - Building Data & AI products
+- [[Curated list of Resources on Behavioural Analytics]]
+- [[References on Marketing Analytics]]
 - [[Building Data & AI Products]]
 - [[Data Modelling for the 7 Ws]]
 - [[Data Visualisation]]
 - [[Experiment Design]]
-- [[Curated list of Resources on Behavioural Analytics]]
-- [[References on Marketing Analytics]]
+
 - miscellaneous :
   - [[Implement Shannon Entropy in DAX]]
   - [[Implement a funnel drop-off rate in DAX]]
@@ -38,12 +47,6 @@ Throughout my career, I have cultivated a deep interest in various aspects of:
 - [[Discrete Mathematics Course | Discrete Mathematics]]
 - [[Clustering Similarity Measures]]
 
-
-## - General thoughts
-- [[Cognitive Outsourcing. Or Why I think ChatGPT & LLM models are a threat to human cognitive capabilities]]
-- [[Dynamic & Customised Pricing using Artificial Intelligence]]
-- [[Tradeoff Ownership and Freedom]]
-- [[Tradeoff between Speed & Power]]
 
 
 
